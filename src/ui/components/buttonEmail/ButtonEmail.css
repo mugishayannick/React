@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.email {
+    color: white;
+    display: flex;
+    position: relative;
+    padding: 12px 25px;
+    gap: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.image{
+    width: 20px;
+    color: black;
+}
+
+.email span {
+    color: black;
+}

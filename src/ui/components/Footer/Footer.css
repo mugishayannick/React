@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.social-icons {
+    padding: 10px 70px;
+    width: 319px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* border: 1px solid black; */
+    background-color: #161619;
+    margin-left: -30px;
+}
+
+.social-icons ul{
+    width: 50%;
+    list-style-type: none;
+    display: flex;
+}
+
+.social-icons ul li {
+    margin-right: 20px;
+}

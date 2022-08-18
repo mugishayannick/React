@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.linkedin {
+    color: white;
+    display: flex;
+    position: relative;
+    padding: 10px 20px;
+    gap: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #5093E2;
+    cursor: pointer;
+}
+
+.linkedin span {
+    color: #fff;
+    margin-top: 3px;
+}
